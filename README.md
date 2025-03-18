@@ -81,6 +81,8 @@ I collaborated with **General Healthcare Incorporation** on this project to anal
 
  -  **Presentation & Deployment:** Communicating insights to stakeholders and ensuring model usability for end-users.
 
+[Check out this project on my LindedIn profile](https://www.linkedin.com/posts/ezekiel-balogun-39a14438_my3mtt-3mttnigeria-3mttknowledgeshowcase-activity-7307560515768127488-gzU8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAfZ7SYBZi3-zvY9YOT5rNoR9yIU6rTm9B8)
+
 ### Repository Structure
 📂 General-Healthcare-Analysis
 ├── 📄 README.md  (This Documentation)
